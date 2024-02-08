@@ -1,4 +1,4 @@
-# Are explicit interests informative for Recommender Systems?
+# Are Explicit Interests Informative for Recommender Systems?
 
 Nitya Shah, University of Amsterdam
 
